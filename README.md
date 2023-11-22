@@ -1,3 +1,3 @@
 # clipboard-website-template
 
-  -[tailwindcss](https://tailwindcss.com/)
+  # [tailwindcss](https://tailwindcss.com/)
